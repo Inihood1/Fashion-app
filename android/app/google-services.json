@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "139407358516",
+    "project_id": "commerce-570c5",
+    "storage_bucket": "commerce-570c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139407358516:android:1a515665883eca19d92861",
+        "android_client_info": {
+          "package_name": "com.inihood.ecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdFgSbeDRm18Lf6AYmo1Jb1wMobOQbDO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
